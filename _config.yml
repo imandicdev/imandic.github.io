@@ -24,23 +24,21 @@ people:
   pic: 4
   position: Software Engineer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+     - title: facebook
+       url:  https://www.facebook.com/ilija.mandic.165
+     - title: github
+       url: https://github.com/imandicdev
 
 #- name: Ilija Mandic
 #  pic: 4
 #  position: Lead Developer
 #  social:
-     - title: twitter
-       url: Dirkintruder
-     - title: facebook
-       url:  https://www.facebook.com/ilija.mandic.165
-     - title: github
-       url: https://github.com/imandicdev
+#    - title: twitter
+#      url: https://twitter.com/Dirkintruder
+#     - title: facebook
+#       url:  https://www.facebook.com/ilija.mandic.165
+#     - title: github
+#       url: https://github.com/imandicdev
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
